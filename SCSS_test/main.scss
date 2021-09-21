@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    border: 4px solid black;
+    .item {
+        background-color: orange;
+        font-size: 40px;
+    }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;AACA;EACI;EACA","file":"main.39afc03c.css","sourceRoot":"..","sourcesContent":[".container {\n    display: flex;\n    border: 4px solid black;\n    .item {\n        background-color: orange;\n        font-size: 40px;\n    }\n}"]}
